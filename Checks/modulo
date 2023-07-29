@@ -1,0 +1,4 @@
+//Basicamente as verificações são 
+//recursos cruciais para validar as respostas das requisições feitas durante os testes de desempenho. 
+//Eles permitem que você estabeleça critérios de sucesso para suas requisições e verifique se a aplicação está 
+//se comportando corretamente em resposta às ações realizadas pelos usuários virtuais.

@@ -1,0 +1,3 @@
+Os thresholds (limites) são um recurso importante no k6 que permite definir critérios para determinar se um teste de desempenho é considerado bem-sucedido ou não. Eles são usados para estabelecer limites para métricas específicas coletadas durante a execução do teste e permitem tomar ações com base nessas métricas.
+Os thresholds são definidos no script de teste do k6 e podem ser aplicados a várias métricas, como tempo de resposta, taxa de erros, latência, largura de banda, etc.
+ Se uma métrica exceder o limite definido, o k6 emitirá um alerta e, dependendo da configuração, pode encerrar o teste com uma falha.

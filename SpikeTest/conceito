@@ -1,0 +1,6 @@
+O Spike Test avalia como a aplicação se comporta quando há picos repentinos e significativos de tráfego. 
+Ele simula eventos inesperados, como uma promoção que leva a um aumento instantâneo na demanda.
+
+Como usar o k6 para Spike Test:
+No k6, podemos criar cenários em que a carga aumenta abruptamente e depois retorna ao normal. 
+Podemos observar como a aplicação se recupera de picos de tráfego e se o desempenho é afetado.

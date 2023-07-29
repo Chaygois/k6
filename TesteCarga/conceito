@@ -1,0 +1,6 @@
+O Load Test é projetado para simular a carga real de usuários na aplicação, com o objetivo de medir o desempenho sob condições normais de uso. 
+Ele testa a capacidade do sistema de lidar com um determinado número de usuários simultâneos e monitora o tempo de resposta,a taxa de erro e outros indicadores de desempenho.
+
+Como usar o k6 para Load Test:
+O k6 pode simular a carga de centenas ou milhares de usuários virtuais para testar o desempenho da aplicação.
+ Podemos definir cenários de teste com base em perfis de usuário e personalizar as configurações para representar a carga típica.

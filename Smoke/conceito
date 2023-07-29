@@ -1,0 +1,4 @@
+O Smoke Test, também conhecido como Teste Básico ou Teste de Sanidade, é um teste inicial de baixa complexidade que verifica se a aplicação está funcionando minimamente após mudanças significativas. Ele é usado para garantir que as
+principais funcionalidades não estejam completamente quebradas antes de prosseguir para testes mais abrangentes.
+Como usar o k6 para Smoke Test:
+O k6 pode ser usado para realizar testes de Smoke Test executando casos de uso básicos que verifiquem se a aplicação está acessível e retorna respostas HTTP válidas.

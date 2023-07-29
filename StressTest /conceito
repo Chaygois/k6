@@ -1,0 +1,6 @@
+O Stress Test avalia o comportamento do sistema quando este é submetido a uma carga além da capacidade máxima prevista. 
+Ele ajuda a identificar os limites do sistema e a determinar como ele se comporta sob condições extremas.
+
+Como usar o k6 para Stress Test:
+Usando o k6, podemos aumentar gradualmente a carga até atingir a capacidade máxima suportada pela aplicação. Podemos monitorar métricas críticas, 
+como o tempo de resposta e a taxa de erros, para identificar quando o sistema começa a ficar sobrecarregado.
