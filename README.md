@@ -17,4 +17,4 @@ O k6 é uma ferramenta poderosa e flexível, projetada para simular carga em sis
 
 ## Como Usar
 
-1. Clone este repositório em sua máquina local usando o seguinte comando: gitclone
+1. Clone este repositório em sua máquina local usando o seguinte comando: gitclone https://github.com/Chaygois/k6.git
