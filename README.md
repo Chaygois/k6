@@ -24,4 +24,4 @@ O k6 é uma ferramenta poderosa e flexível, projetada para simular carga em sis
 
 ## Créditos
 
-Este curso foi criado por [ChayGois (https://github.com/chaygois).
+Este curso foi criado por ChayGois (https://github.com/Chaygois).
