@@ -1,0 +1,21 @@
+    Inicialização:
+        Nesta fase, você precisa preparar o ambiente para realizar o teste de desempenho com o k6. Isso envolve a instalação do k6 em sua máquina local ou em um servidor dedicado, pois o k6 é executado como uma ferramenta de linha de comando.
+        Uma vez instalado, é necessário definir os objetivos e requisitos do teste. Determine os cenários de teste, a quantidade de usuários virtuais (VUs - Virtual Users) que você deseja simular e a duração total do teste. Esses fatores variam de acordo com o objetivo do teste e a capacidade dos sistemas em teste.
+        Durante a inicialização, também é o momento para definir os scripts de teste. Os scripts do k6 são escritos em JavaScript e contêm as ações que os usuários virtuais executarão durante o teste, como chamadas a APIs, envio de formulários, etc.
+
+    Configuração:
+        Com os objetivos definidos e os scripts escritos, é hora de configurar o teste. O k6 oferece várias opções de configuração para personalizar o comportamento do teste. Alguns exemplos incluem:
+            Configuração do número de usuários virtuais (VUs) que serão simulados durante o teste.
+            Definição de uma taxa de chegada (RPS - Requests Per Second) para controlar a carga aplicada ao sistema em teste.
+            Configuração de variáveis de ambiente e de headers HTTP personalizados.
+            Definição de critérios de parada do teste, como tempo máximo de execução ou limite de erros.
+
+    Execução:
+        Com a inicialização e configuração concluídas, o teste é executado. O k6 começa a simular os usuários virtuais de acordo com as configurações especificadas nos scripts e na configuração.
+        O k6 coleta métricas de desempenho em tempo real durante a execução do teste. Isso inclui informações sobre o tempo de resposta das requisições, o número de erros, a latência, entre outras métricas relevantes.
+        À medida que os usuários virtuais executam as ações especificadas nos scripts, a carga é aplicada ao sistema em teste, permitindo que você avalie o desempenho sob condições simuladas.
+
+    Desmontagem:
+        Ao final do teste, o k6 gera um relatório detalhado com as métricas e resultados obtidos durante a execução.
+        É o momento de analisar os resultados do teste para identificar gargalos de desempenho, problemas de escalabilidade e outras questões relevantes. Com base nessas informações, você pode tomar decisões sobre otimizações e melhorias no sistema em teste.
+        A desmontagem também pode envolver a limpeza de recursos e dados gerados durante o teste, dependendo do ambiente em que o teste foi realizado.
