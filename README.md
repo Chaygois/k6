@@ -17,7 +17,7 @@ O k6 é uma ferramenta poderosa e flexível, projetada para simular carga em sis
 
 ## Como Usar
 
-1. Clone este repositório em sua máquina local usando o seguinte comando: gitclone https://github.com/Chaygois/k6.git
+1. Clone este repositório em sua máquina local usando o seguinte comando: git clone https://github.com/Chaygois/k6.git
 2. Instale o k6 em sua máquina local (verifique a documentação oficial do k6 para obter instruções).
 3. Navegue até a pasta do curso e execute os scripts de teste usando o k6.
 4. Explore como funciona o ciclo de vida e como cada tipo de teste é implementado, também como  os checks e thresholds são aplicados.
