@@ -22,3 +22,6 @@ O k6 é uma ferramenta poderosa e flexível, projetada para simular carga em sis
 3. Navegue até a pasta do curso e execute os scripts de teste usando o k6.
 4. Explore como funciona o ciclo de vida e como cada tipo de teste é implementado, também como  os checks e thresholds são aplicados.
 
+## Créditos
+
+Este curso foi criado por [ChayGois (https://github.com/chaygois).
